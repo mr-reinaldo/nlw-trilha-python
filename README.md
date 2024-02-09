@@ -1,4 +1,4 @@
-# Next Level Week Rocketset - Trilha Python
+# Next Level Week Rocketseat - Trilha Python
 
 ## Barcode Creator - Flask API
 
