@@ -13,3 +13,6 @@ API para criação de códigos de barras em formato de imagem. A API recebe um c
 - Pillow (Manipulação de imagens)
 - Pytest (Testes unitários)
 - Cerberus (Validação de dados)
+
+
+![Peek 09-02-2024 12-12](https://github.com/mr-reinaldo/nlw-trilha-python/assets/88012242/a830d957-d814-4ba0-80be-f6df156d0e8c)
